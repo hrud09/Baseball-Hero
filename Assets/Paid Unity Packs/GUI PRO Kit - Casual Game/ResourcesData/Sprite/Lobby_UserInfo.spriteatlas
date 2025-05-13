@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lobby_UserInfo
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 916976b882de14d1789f3cebae0a243e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 3cd15e01d65664fb5ad1ff5b30cb028d: 21300000
+    - a614a151a2af1409ba3712bb825dce38: 21300000
+    - f35e39d2fbbb44b75b9c25e77ec784d9: 21300000
+    - c1943a73e4018457da52ebe48587e1a7: 21300000
+    - a2d65a444693f44b9894eb3a8f6ec22d: 21300000
+    - c97285f461ab94a6188d508af1055853: 21300000
+    - a47756e595a7148ecb87b8671c6f4c65: 21300000
+    - 120ae547a5c2a4e83b7ba8c01b146617: 21300000
+    - e8f8ac872dfca4b0ba16192f2fd512f8: 21300000
+    - aa792108aa30c40f2a3df9f60212ec1c: 21300000
+    - 0dbc2f690144e4d729a508ba433c785e: 21300000
+    - 81e30589f35164a5eb47c11069877949: 21300000
+    - 5657cf8ad4f744ce8bf8fdd80931edd9: 21300000
+    - 719fe34b92d9144b5b2326caefd07294: 21300000
+    - 041cf0bb026e443e6881c3719de1dd83: 21300000
+    - fccecdfb5696147e4a2c31c626b3278c: 21300000
+    - 7561e4fc251c24c6d8d9d67d6bd945cf: 21300000
+    - d49f9f0d810354469ba9a8b267ddfc71: 21300000
+    - 593fe35ebd98e4be083920ce16b84fe0: 21300000
+    - 3353fb5e03a314f028817506e7160d71: 21300000
+    - b8b28a9f95511432b941f950e5510391: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3cd15e01d65664fb5ad1ff5b30cb028d, type: 3}
+  - {fileID: 21300000, guid: a614a151a2af1409ba3712bb825dce38, type: 3}
+  - {fileID: 21300000, guid: f35e39d2fbbb44b75b9c25e77ec784d9, type: 3}
+  - {fileID: 21300000, guid: c1943a73e4018457da52ebe48587e1a7, type: 3}
+  - {fileID: 21300000, guid: a2d65a444693f44b9894eb3a8f6ec22d, type: 3}
+  - {fileID: 21300000, guid: c97285f461ab94a6188d508af1055853, type: 3}
+  - {fileID: 21300000, guid: a47756e595a7148ecb87b8671c6f4c65, type: 3}
+  - {fileID: 21300000, guid: 120ae547a5c2a4e83b7ba8c01b146617, type: 3}
+  - {fileID: 21300000, guid: e8f8ac872dfca4b0ba16192f2fd512f8, type: 3}
+  - {fileID: 21300000, guid: aa792108aa30c40f2a3df9f60212ec1c, type: 3}
+  - {fileID: 21300000, guid: 0dbc2f690144e4d729a508ba433c785e, type: 3}
+  - {fileID: 21300000, guid: 81e30589f35164a5eb47c11069877949, type: 3}
+  - {fileID: 21300000, guid: 5657cf8ad4f744ce8bf8fdd80931edd9, type: 3}
+  - {fileID: 21300000, guid: 719fe34b92d9144b5b2326caefd07294, type: 3}
+  - {fileID: 21300000, guid: 041cf0bb026e443e6881c3719de1dd83, type: 3}
+  - {fileID: 21300000, guid: fccecdfb5696147e4a2c31c626b3278c, type: 3}
+  - {fileID: 21300000, guid: 7561e4fc251c24c6d8d9d67d6bd945cf, type: 3}
+  - {fileID: 21300000, guid: d49f9f0d810354469ba9a8b267ddfc71, type: 3}
+  - {fileID: 21300000, guid: 593fe35ebd98e4be083920ce16b84fe0, type: 3}
+  - {fileID: 21300000, guid: 3353fb5e03a314f028817506e7160d71, type: 3}
+  - {fileID: 21300000, guid: b8b28a9f95511432b941f950e5510391, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - profile_img_back
+  - userinfo_icon_win
+  - userinfo_lv_bar_bg
+  - userinfo_icon_king
+  - userinfo_detail_bg
+  - user_info_name_bg
+  - popup_user_info
+  - userinfo_icon_skull
+  - userinfo_icon_map
+  - userinfo_lv_bar
+  - userinfo_icon_boss
+  - userinfo_major
+  - profile_img_sample
+  - btn_icon_edit
+  - profile_img_frame
+  - userinfo_icon_critical
+  - userinfo_icon_vs
+  - userinfo_icon_trophy
+  - btn_small_blue
+  - userinfo_lv_bg
+  - userinfo_icon_crown
+  m_RenderDataMap: {}
+  m_Tag: Lobby_UserInfo
+  m_IsVariant: 0

@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SettingLanguage
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 996dcda81384343f8933fcbe04ed45ad, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 2374ec506894d4d94a933e4ac8c3fc22: 21300000
+    - 8a6968c03b9b84dac8bc820783cb76d2: 21300000
+    - c6842b224585c449fb175bbb7a419847: 21300000
+    - 75a3f5329d68f42df8f01e5654be68fb: 21300000
+    - 87f78f42f092942fb84404280c0282df: 21300000
+    - 89270c4303695424dbaa6d7f806035bc: 21300000
+    - 705ec5f3e6aed420f801cf25aad8c5de: 21300000
+    - b5e2f264de5c0415c8dabbfb21b258da: 21300000
+    - 2ab6dad4eb7624fb2a5067c44ec5fabc: 21300000
+    - 1195ad659047f4ce285ae0bf877cbb9d: 21300000
+    - 0e8b12263bb7c4d5e86696095bc137be: 21300000
+    - cdc4c0379853e48d786651ee376e24af: 21300000
+    - f082572a872104de1a75dcf6ffe76402: 21300000
+    - 0cabdc4ad799a4acab1c46839c72736f: 21300000
+    - f92e4a7c997694993b0633c675c7b4d4: 21300000
+    - 78563bdcbacba4d33ac69d901ddb7c70: 21300000
+    - ac20342df69c1437587a80271641582d: 21300000
+    - f147e8dd3c4904cf89fbef58f81d2b28: 21300000
+    - 5efde1edc70c54953947d2ff10e24bee: 21300000
+    - 530500fd2cf9e4d18a606b0e5a23656f: 21300000
+    - 0a6f0c4f61ffc4ea79905ab38a49e4b6: 21300000
+    - 230372df29c2f4734843200e856808e6: 21300000
+    - 40e8cadf6a4bb47aabe11256da7569fe: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2374ec506894d4d94a933e4ac8c3fc22, type: 3}
+  - {fileID: 21300000, guid: 8a6968c03b9b84dac8bc820783cb76d2, type: 3}
+  - {fileID: 21300000, guid: c6842b224585c449fb175bbb7a419847, type: 3}
+  - {fileID: 21300000, guid: 75a3f5329d68f42df8f01e5654be68fb, type: 3}
+  - {fileID: 21300000, guid: 87f78f42f092942fb84404280c0282df, type: 3}
+  - {fileID: 21300000, guid: 89270c4303695424dbaa6d7f806035bc, type: 3}
+  - {fileID: 21300000, guid: 705ec5f3e6aed420f801cf25aad8c5de, type: 3}
+  - {fileID: 21300000, guid: b5e2f264de5c0415c8dabbfb21b258da, type: 3}
+  - {fileID: 21300000, guid: 2ab6dad4eb7624fb2a5067c44ec5fabc, type: 3}
+  - {fileID: 21300000, guid: 1195ad659047f4ce285ae0bf877cbb9d, type: 3}
+  - {fileID: 21300000, guid: 0e8b12263bb7c4d5e86696095bc137be, type: 3}
+  - {fileID: 21300000, guid: cdc4c0379853e48d786651ee376e24af, type: 3}
+  - {fileID: 21300000, guid: f082572a872104de1a75dcf6ffe76402, type: 3}
+  - {fileID: 21300000, guid: 0cabdc4ad799a4acab1c46839c72736f, type: 3}
+  - {fileID: 21300000, guid: f92e4a7c997694993b0633c675c7b4d4, type: 3}
+  - {fileID: 21300000, guid: 78563bdcbacba4d33ac69d901ddb7c70, type: 3}
+  - {fileID: 21300000, guid: ac20342df69c1437587a80271641582d, type: 3}
+  - {fileID: 21300000, guid: f147e8dd3c4904cf89fbef58f81d2b28, type: 3}
+  - {fileID: 21300000, guid: 5efde1edc70c54953947d2ff10e24bee, type: 3}
+  - {fileID: 21300000, guid: 530500fd2cf9e4d18a606b0e5a23656f, type: 3}
+  - {fileID: 21300000, guid: 0a6f0c4f61ffc4ea79905ab38a49e4b6, type: 3}
+  - {fileID: 21300000, guid: 230372df29c2f4734843200e856808e6, type: 3}
+  - {fileID: 21300000, guid: 40e8cadf6a4bb47aabe11256da7569fe, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - check_green
+  - language_flag_ita
+  - language_flag_esp
+  - language_flag_jpn
+  - language_flag_pra
+  - language_flag_prt
+  - language_flag_vnm
+  - language_flag_gre
+  - language_flag_twn
+  - language_flag_kor
+  - language_flag_eng
+  - language_flag_tha
+  - language_flag_fra
+  - language_flag_deu
+  - language_flag_swe
+  - language_flag_chn
+  - language_flag_ukr
+  - language_flag_rus
+  - language_flag_rou
+  - language_flag_tur
+  - language_flag_ina
+  - language_flag_pol
+  - language_flag_ara
+  m_RenderDataMap: {}
+  m_Tag: SettingLanguage
+  m_IsVariant: 0

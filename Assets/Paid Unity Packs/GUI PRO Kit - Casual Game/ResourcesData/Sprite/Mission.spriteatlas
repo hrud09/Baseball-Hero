@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mission
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 905f757f8bb774773bc3e82060e3f824, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 3238ea403f3134bd3a9c0911368b8b8f: 21300000
+    - 97557c70252344f00b3ac41c1eb2c79e: 21300000
+    - 3b8708e1f47804bdc905c6cb3dbec643: 21300000
+    - 9d29f17266a7746ce95c45716aee9f6c: 21300000
+    - cda87792b516f4e0d8bf7d3ef5cdbae9: 21300000
+    - f421cd929cc354ed49452b744473d2b9: 21300000
+    - c42da3438f7ae4ac8984d78fa8f8aa81: 21300000
+    - c3060093b5d684047a11461e7f1e59d3: 21300000
+    - 2e86c193e0c9847e8bbbfdd7eefbddba: 21300000
+    - d3d46fc369eb0416ea01410b112ebe11: 21300000
+    - bdeaaeb4a55d64ffba40531412781598: 21300000
+    - 04cf9318d4d7847b58f6ce19f997c592: 21300000
+    - 3e8bb429ce32e4057875dca9a44a38aa: 21300000
+    - 59a6ec29f18a14d9497453eadf418456: 21300000
+    - 0194274b6383e402a8facb4fa8c8425a: 21300000
+    - b5a8080c0411b4f1cb261c5d09fed284: 21300000
+    - a3b5933c788cc48a4ad1eccad6499632: 21300000
+    - cb9f805c083e74f4682f55f974a5b313: 21300000
+    - 1e49cb8c7fd614c258bea65c4863b935: 21300000
+    - 88ed25cc13a024bf3a0f524328e70896: 21300000
+    - 658a4fdc592974780b58272c015e36e5: 21300000
+    - 048d137da78a041979d9dc4c6af017a2: 21300000
+    - b3c7adbd7333942a0870ae5f42e384d3: 21300000
+    - 14bb7dbe03b4c4f1999e45ec89aafdb5: 21300000
+    - 35e4ceee666464b0ab5525eef8ac4e24: 21300000
+    - 7ce6518f1c6094165957b7985759ed76: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3238ea403f3134bd3a9c0911368b8b8f, type: 3}
+  - {fileID: 21300000, guid: 97557c70252344f00b3ac41c1eb2c79e, type: 3}
+  - {fileID: 21300000, guid: 3b8708e1f47804bdc905c6cb3dbec643, type: 3}
+  - {fileID: 21300000, guid: 9d29f17266a7746ce95c45716aee9f6c, type: 3}
+  - {fileID: 21300000, guid: cda87792b516f4e0d8bf7d3ef5cdbae9, type: 3}
+  - {fileID: 21300000, guid: f421cd929cc354ed49452b744473d2b9, type: 3}
+  - {fileID: 21300000, guid: c42da3438f7ae4ac8984d78fa8f8aa81, type: 3}
+  - {fileID: 21300000, guid: c3060093b5d684047a11461e7f1e59d3, type: 3}
+  - {fileID: 21300000, guid: 2e86c193e0c9847e8bbbfdd7eefbddba, type: 3}
+  - {fileID: 21300000, guid: d3d46fc369eb0416ea01410b112ebe11, type: 3}
+  - {fileID: 21300000, guid: bdeaaeb4a55d64ffba40531412781598, type: 3}
+  - {fileID: 21300000, guid: 04cf9318d4d7847b58f6ce19f997c592, type: 3}
+  - {fileID: 21300000, guid: 3e8bb429ce32e4057875dca9a44a38aa, type: 3}
+  - {fileID: 21300000, guid: 59a6ec29f18a14d9497453eadf418456, type: 3}
+  - {fileID: 21300000, guid: 0194274b6383e402a8facb4fa8c8425a, type: 3}
+  - {fileID: 21300000, guid: b5a8080c0411b4f1cb261c5d09fed284, type: 3}
+  - {fileID: 21300000, guid: a3b5933c788cc48a4ad1eccad6499632, type: 3}
+  - {fileID: 21300000, guid: cb9f805c083e74f4682f55f974a5b313, type: 3}
+  - {fileID: 21300000, guid: 1e49cb8c7fd614c258bea65c4863b935, type: 3}
+  - {fileID: 21300000, guid: 88ed25cc13a024bf3a0f524328e70896, type: 3}
+  - {fileID: 21300000, guid: 658a4fdc592974780b58272c015e36e5, type: 3}
+  - {fileID: 21300000, guid: 048d137da78a041979d9dc4c6af017a2, type: 3}
+  - {fileID: 21300000, guid: b3c7adbd7333942a0870ae5f42e384d3, type: 3}
+  - {fileID: 21300000, guid: 14bb7dbe03b4c4f1999e45ec89aafdb5, type: 3}
+  - {fileID: 21300000, guid: 35e4ceee666464b0ab5525eef8ac4e24, type: 3}
+  - {fileID: 21300000, guid: 7ce6518f1c6094165957b7985759ed76, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - mission_list_bg_default
+  - mission_icon_trophy
+  - mission_info_bg
+  - mission_reward_icon_energy
+  - mission_reward_icon_gem
+  - mission_list_reward_chest
+  - mission_icon_pouch
+  - mission_reward_icon_gold
+  - mission_icon_tv
+  - mission_prg_bar
+  - mission_list_bg_complete
+  - mission_reward_bg_purple
+  - mission_list_reward_ax
+  - mission_reward_icon_glove
+  - mission_list_reward_gem
+  - mission_reward_bg_green
+  - mission_list_reward_rune
+  - mission_list_reward_bg_n
+  - mission_reward_bg_yellow
+  - mission_prg_bg
+  - mission_icon_crown
+  - mission_icon_book
+  - mission_list_reward_bg_s
+  - mission_reward_icon_chest
+  - mission_list_reward_gold
+  - mission_reward_bg_gray
+  m_RenderDataMap: {}
+  m_Tag: Mission
+  m_IsVariant: 0

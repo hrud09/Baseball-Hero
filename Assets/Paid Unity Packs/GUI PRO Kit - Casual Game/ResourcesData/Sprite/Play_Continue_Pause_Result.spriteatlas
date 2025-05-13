@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Play_Continue_Pause_Result
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f4af54c401fe646ada00f5211e256ab0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - e15f22a1ddea1449f99f78ac9539ca70: 21300000
+    - 81fcf25223e994d5bb2c96bd96bbdbfa: 21300000
+    - 6f38d23416f8a4d04b7faad6938a091d: 21300000
+    - dc729564fac494269a46ec878493ac97: 21300000
+    - b39a5f99db2fe4d5f9abdda34cfe0dd1: 21300000
+    - d33ec84b03a2141aa99112ea3fdf64b1: 21300000
+    - 61f14e0da5f2045d5882369db281148c: 21300000
+    - f87e5c4f973bc43db894865ba74334c8: 21300000
+    - 716cdd8f1dde34258ac5a1e2522d5e1b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e15f22a1ddea1449f99f78ac9539ca70, type: 3}
+  - {fileID: 21300000, guid: 81fcf25223e994d5bb2c96bd96bbdbfa, type: 3}
+  - {fileID: 21300000, guid: 6f38d23416f8a4d04b7faad6938a091d, type: 3}
+  - {fileID: 21300000, guid: dc729564fac494269a46ec878493ac97, type: 3}
+  - {fileID: 21300000, guid: b39a5f99db2fe4d5f9abdda34cfe0dd1, type: 3}
+  - {fileID: 21300000, guid: d33ec84b03a2141aa99112ea3fdf64b1, type: 3}
+  - {fileID: 21300000, guid: 61f14e0da5f2045d5882369db281148c, type: 3}
+  - {fileID: 21300000, guid: f87e5c4f973bc43db894865ba74334c8, type: 3}
+  - {fileID: 21300000, guid: 716cdd8f1dde34258ac5a1e2522d5e1b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - pause_btn_icon_exit
+  - pause_btn_icon_setting
+  - pause_btn_icon_play
+  - pause_btn_blue
+  - result_star_samll
+  - pause_btn_red
+  - particle_circle
+  - result_star_large
+  - pause_btn_icon_resume
+  m_RenderDataMap: {}
+  m_Tag: Play_Continue_Pause_Result
+  m_IsVariant: 0

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tutorial
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6f7f2c1d6181c40b583007ec2080a3cc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - ba263c523f0d041e7b3594101f41b6ce: 21300000
+    - c4b809c20fab7424d82527fd4365a952: 21300000
+    - 8a5d5254ee755468f9c592faf06e8274: 21300000
+    - 839b69c7e93344fd6ad9f9dba567560e: 21300000
+    - 80b8acd9a21c64c47837ad66074e54ee: 21300000
+    - 9378962ab369f481e8499b8248932b4b: 21300000
+    - 41499b4a445b04420bb66a55182bf1b6: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ba263c523f0d041e7b3594101f41b6ce, type: 3}
+  - {fileID: 21300000, guid: c4b809c20fab7424d82527fd4365a952, type: 3}
+  - {fileID: 21300000, guid: 8a5d5254ee755468f9c592faf06e8274, type: 3}
+  - {fileID: 21300000, guid: 839b69c7e93344fd6ad9f9dba567560e, type: 3}
+  - {fileID: 21300000, guid: 80b8acd9a21c64c47837ad66074e54ee, type: 3}
+  - {fileID: 21300000, guid: 9378962ab369f481e8499b8248932b4b, type: 3}
+  - {fileID: 21300000, guid: 41499b4a445b04420bb66a55182bf1b6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tutorial_icon_hand_0
+  - tutorial_character_sample
+  - tutorial_chat_bg
+  - tutorial_icon_next
+  - tutorial_line_circle
+  - tutorial_btn_skip_bg
+  - tutorial_chat_bg_arrow
+  m_RenderDataMap: {}
+  m_Tag: Tutorial
+  m_IsVariant: 0

@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Character_Passive
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 56a193a5f86cc4901b29995e42d750dc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - f5813001568b84948a1892a96a0e2b64: 21300000
+    - 8c4e2c116f2384eb187ccc7d0d12e0f9: 21300000
+    - 2091c361385bd48d5be953c40632d290: 21300000
+    - 48ca1f81871ca43b8ace10fa236d002b: 21300000
+    - cc1b9c43097cc4e6193fe120aba8437f: 21300000
+    - df842b348c55f4914b4edce0f5b7fc45: 21300000
+    - a83159855797443f386c18e603ba9628: 21300000
+    - 7a313906e17864d7d9541e4d357c226e: 21300000
+    - 2350f616142f747c8b63c95f6e433884: 21300000
+    - c0422826d5ddc4b78ad6519281458163: 21300000
+    - 60716c867ff824dbdb4eab67ef7a4c15: 21300000
+    - db632138d31a94e51940fdf1abceeb32: 21300000
+    - fbfa58981d5a6449e9e5555a66725978: 21300000
+    - e8fa31d82c0e649b08aca60e639fb94c: 21300000
+    - 9d5c7e997a2f4441dab65c8dd1312970: 21300000
+    - 626364b96f6524765be13bb0564536f0: 21300000
+    - 48b3d44a58491465faf1dd6d9e60ae12: 21300000
+    - 1394ac5a2053249b0845a6fa923b86ed: 21300000
+    - 6345356bca1394704868fc33ce1b8064: 21300000
+    - 6982388b047c74650a610b16fb3761dd: 21300000
+    - 172231cb65ce94402bd2ce7e70a5338c: 21300000
+    - 7626c9ec2f3e442519d06a4752503f8c: 21300000
+    - 037a710d230c74189a2cc13db32eac76: 21300000
+    - 892944bd1f9844e62841df6931695c25: 21300000
+    - 3a24231e736824ad98236385091f0cc2: 21300000
+    - 511ad62e9bc03482aa8ebedafd19115c: 21300000
+    - 68dff65e5c93f48da84e0319396c9e1d: 21300000
+    - 08543dce4445b4cb7b5fbe150e39d85a: 21300000
+    - 02ba6d0f63d6a4ac2a1dc007d638e05d: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f5813001568b84948a1892a96a0e2b64, type: 3}
+  - {fileID: 21300000, guid: 8c4e2c116f2384eb187ccc7d0d12e0f9, type: 3}
+  - {fileID: 21300000, guid: 2091c361385bd48d5be953c40632d290, type: 3}
+  - {fileID: 21300000, guid: 48ca1f81871ca43b8ace10fa236d002b, type: 3}
+  - {fileID: 21300000, guid: cc1b9c43097cc4e6193fe120aba8437f, type: 3}
+  - {fileID: 21300000, guid: df842b348c55f4914b4edce0f5b7fc45, type: 3}
+  - {fileID: 21300000, guid: a83159855797443f386c18e603ba9628, type: 3}
+  - {fileID: 21300000, guid: 7a313906e17864d7d9541e4d357c226e, type: 3}
+  - {fileID: 21300000, guid: 2350f616142f747c8b63c95f6e433884, type: 3}
+  - {fileID: 21300000, guid: c0422826d5ddc4b78ad6519281458163, type: 3}
+  - {fileID: 21300000, guid: 60716c867ff824dbdb4eab67ef7a4c15, type: 3}
+  - {fileID: 21300000, guid: db632138d31a94e51940fdf1abceeb32, type: 3}
+  - {fileID: 21300000, guid: fbfa58981d5a6449e9e5555a66725978, type: 3}
+  - {fileID: 21300000, guid: e8fa31d82c0e649b08aca60e639fb94c, type: 3}
+  - {fileID: 21300000, guid: 9d5c7e997a2f4441dab65c8dd1312970, type: 3}
+  - {fileID: 21300000, guid: 626364b96f6524765be13bb0564536f0, type: 3}
+  - {fileID: 21300000, guid: 48b3d44a58491465faf1dd6d9e60ae12, type: 3}
+  - {fileID: 21300000, guid: 1394ac5a2053249b0845a6fa923b86ed, type: 3}
+  - {fileID: 21300000, guid: 6345356bca1394704868fc33ce1b8064, type: 3}
+  - {fileID: 21300000, guid: 6982388b047c74650a610b16fb3761dd, type: 3}
+  - {fileID: 21300000, guid: 172231cb65ce94402bd2ce7e70a5338c, type: 3}
+  - {fileID: 21300000, guid: 7626c9ec2f3e442519d06a4752503f8c, type: 3}
+  - {fileID: 21300000, guid: 037a710d230c74189a2cc13db32eac76, type: 3}
+  - {fileID: 21300000, guid: 892944bd1f9844e62841df6931695c25, type: 3}
+  - {fileID: 21300000, guid: 3a24231e736824ad98236385091f0cc2, type: 3}
+  - {fileID: 21300000, guid: 511ad62e9bc03482aa8ebedafd19115c, type: 3}
+  - {fileID: 21300000, guid: 68dff65e5c93f48da84e0319396c9e1d, type: 3}
+  - {fileID: 21300000, guid: 08543dce4445b4cb7b5fbe150e39d85a, type: 3}
+  - {fileID: 21300000, guid: 02ba6d0f63d6a4ac2a1dc007d638e05d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - character_detail_sample_shadow
+  - skill_passive_glow
+  - ability_bg
+  - btn_top_label
+  - ability_icon_defense
+  - ability_icon_hp
+  - skill_icon_passive
+  - skill_icon_passive_paticle
+  - skill_icon_1
+  - skill_lv_bg
+  - ability_icon_damage
+  - rune_sample_2
+  - rune_bg
+  - skill_passive_screen_dimmed
+  - ability_icon_speed
+  - character_line
+  - skill_passive_rotate_white
+  - rune_lv_lock
+  - rune_sample_1
+  - rune_bg_activity
+  - character_detail_arrow_prev
+  - character_detail_arrow_next
+  - character_detail_sample
+  - rune_sample_0
+  - skill_passive_rotate_white
+  - ability_icon_critical
+  - skill_icon_0
+  - skill_lv_lock
+  - skill_icon_passive_get
+  m_RenderDataMap: {}
+  m_Tag: Character_Passive
+  m_IsVariant: 0

@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Inbox
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d92734e730f2f4b97b6e41e8166d0fba, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 21baa0c0651b44f289f03ad4e114665b: 21300000
+    - a469f231c171645a2a172e50c4f5baff: 21300000
+    - 919888e3f03e447859a992965d6a51df: 21300000
+    - 27db16f3a892747cab87ca104115ea3f: 21300000
+    - 724d48d6ab8b44ecd9af5a69c1e25500: 21300000
+    - a81e7cf7c8e79467494b08f6845ad8ba: 21300000
+    - 7a1361c8c131743f7b4187f3c9cc52fe: 21300000
+    - aab789accb19b4741bc4fa2580926b9b: 21300000
+    - abb96bbc164304c69af8d0a9cf8cf261: 21300000
+    - faa27b9d258d54bd19c1be8dede2a8a2: 21300000
+    - 0a84cbedaddc543e495212efe94f1ae1: 21300000
+    - d28d02fe3e93b4e49b33706a6c4c0def: 21300000
+    - cce3b9bf97bec41259b791c6573f7ef9: 21300000
+    - 9eb893df092c240cdbbe861f765a6b79: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 21baa0c0651b44f289f03ad4e114665b, type: 3}
+  - {fileID: 21300000, guid: a469f231c171645a2a172e50c4f5baff, type: 3}
+  - {fileID: 21300000, guid: 919888e3f03e447859a992965d6a51df, type: 3}
+  - {fileID: 21300000, guid: 27db16f3a892747cab87ca104115ea3f, type: 3}
+  - {fileID: 21300000, guid: 724d48d6ab8b44ecd9af5a69c1e25500, type: 3}
+  - {fileID: 21300000, guid: a81e7cf7c8e79467494b08f6845ad8ba, type: 3}
+  - {fileID: 21300000, guid: 7a1361c8c131743f7b4187f3c9cc52fe, type: 3}
+  - {fileID: 21300000, guid: aab789accb19b4741bc4fa2580926b9b, type: 3}
+  - {fileID: 21300000, guid: abb96bbc164304c69af8d0a9cf8cf261, type: 3}
+  - {fileID: 21300000, guid: faa27b9d258d54bd19c1be8dede2a8a2, type: 3}
+  - {fileID: 21300000, guid: 0a84cbedaddc543e495212efe94f1ae1, type: 3}
+  - {fileID: 21300000, guid: d28d02fe3e93b4e49b33706a6c4c0def, type: 3}
+  - {fileID: 21300000, guid: cce3b9bf97bec41259b791c6573f7ef9, type: 3}
+  - {fileID: 21300000, guid: 9eb893df092c240cdbbe861f765a6b79, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - inbox_character_bg_mask
+  - inbox_character_bg_blue
+  - inbox_character_bg_green
+  - inbox_list_get_reward_bg
+  - inbox_character_sample_1
+  - inbox_character_sample_2
+  - inbox_reward_chest
+  - inbox_reward_rune
+  - inbox_reward_gold
+  - inbox_character_sample_0
+  - inbox_character_bg_shadow_white
+  - inbox_reward_gem
+  - inbox_list_bg
+  - inbox_character_sample_3
+  m_RenderDataMap: {}
+  m_Tag: Inbox
+  m_IsVariant: 0

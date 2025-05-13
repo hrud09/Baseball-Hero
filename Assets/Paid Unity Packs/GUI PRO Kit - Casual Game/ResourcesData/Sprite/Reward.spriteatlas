@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Reward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6b20be28215e542c2a71007fbfefd0ba, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 8707475047dfe4c8ebafa3eced6bcfa2: 21300000
+    - 64d2d46074db547bcb6b4ed04c69dbd8: 21300000
+    - 6ad57a614386a431d9387cb2293ea99c: 21300000
+    - 5b54fa0236ad44c709b9851dfffe87e4: 21300000
+    - f17de7626605c475d9704403eaed2ab2: 21300000
+    - c9f34f72ee9b44ec2a5b163d86d964fd: 21300000
+    - 9e01db92997184ebdb1729aa6fb33a90: 21300000
+    - b09c85a2b8cde4334b0abb468174977a: 21300000
+    - 900e9dc2e82eb4d02a3aea714da1d697: 21300000
+    - 5807f5a352ad449bc8e11ac7cffe95c7: 21300000
+    - 2f2c9d343c9e54188a9da1e6d25473d1: 21300000
+    - fdac3944552db40448f2f7470489888f: 21300000
+    - 26a1b164ae87748f78e202691df33e55: 21300000
+    - 33c83b3504f56476ab5e516d7a67c1eb: 21300000
+    - 9618e3f5605674cd69a9be07a0310ae2: 21300000
+    - 2d7c54362a86d4ca29a9fe1cd70d4783: 21300000
+    - 67ecc4b60fcf64b6f86e15efbe05773e: 21300000
+    - eccb4f17cc3e240e1a4d88de7a6ac478: 21300000
+    - 827f8097cc197412d89c535c4d1370b3: 21300000
+    - 139628f755a7541a29f0d1d2ba55a826: 21300000
+    - 21026438dabaf42fda4520bff061a85a: 21300000
+    - 8ac66c789fc9f4f948481681c22aab69: 21300000
+    - 4fca21a84333643a5b7318f8dc7ae6c0: 21300000
+    - 338362a81ebce4b478c3844ee94a3109: 21300000
+    - fa3b5af8b8a824631a410c89b9a37527: 21300000
+    - 0e333209c51964a3494a51f334891664: 21300000
+    - cb9c3a0a028594c9e978cda3f77ac0f0: 21300000
+    - cbcfb7fa0ecd54e4f8f646e7cad06abe: 21300000
+    - 7a5cefdc871c749e2ac97673e7dd3c4f: 21300000
+    - 76ad76aea29464e47a997426d4b87d0e: 21300000
+    - 42f7f15f106c94250b08d8a43540c943: 21300000
+    - a64ef0df0b327478497db1e7a451fb16: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8707475047dfe4c8ebafa3eced6bcfa2, type: 3}
+  - {fileID: 21300000, guid: 64d2d46074db547bcb6b4ed04c69dbd8, type: 3}
+  - {fileID: 21300000, guid: 6ad57a614386a431d9387cb2293ea99c, type: 3}
+  - {fileID: 21300000, guid: 5b54fa0236ad44c709b9851dfffe87e4, type: 3}
+  - {fileID: 21300000, guid: f17de7626605c475d9704403eaed2ab2, type: 3}
+  - {fileID: 21300000, guid: c9f34f72ee9b44ec2a5b163d86d964fd, type: 3}
+  - {fileID: 21300000, guid: 9e01db92997184ebdb1729aa6fb33a90, type: 3}
+  - {fileID: 21300000, guid: b09c85a2b8cde4334b0abb468174977a, type: 3}
+  - {fileID: 21300000, guid: 900e9dc2e82eb4d02a3aea714da1d697, type: 3}
+  - {fileID: 21300000, guid: 5807f5a352ad449bc8e11ac7cffe95c7, type: 3}
+  - {fileID: 21300000, guid: 2f2c9d343c9e54188a9da1e6d25473d1, type: 3}
+  - {fileID: 21300000, guid: fdac3944552db40448f2f7470489888f, type: 3}
+  - {fileID: 21300000, guid: 26a1b164ae87748f78e202691df33e55, type: 3}
+  - {fileID: 21300000, guid: 33c83b3504f56476ab5e516d7a67c1eb, type: 3}
+  - {fileID: 21300000, guid: 9618e3f5605674cd69a9be07a0310ae2, type: 3}
+  - {fileID: 21300000, guid: 2d7c54362a86d4ca29a9fe1cd70d4783, type: 3}
+  - {fileID: 21300000, guid: 67ecc4b60fcf64b6f86e15efbe05773e, type: 3}
+  - {fileID: 21300000, guid: eccb4f17cc3e240e1a4d88de7a6ac478, type: 3}
+  - {fileID: 21300000, guid: 827f8097cc197412d89c535c4d1370b3, type: 3}
+  - {fileID: 21300000, guid: 139628f755a7541a29f0d1d2ba55a826, type: 3}
+  - {fileID: 21300000, guid: 21026438dabaf42fda4520bff061a85a, type: 3}
+  - {fileID: 21300000, guid: 8ac66c789fc9f4f948481681c22aab69, type: 3}
+  - {fileID: 21300000, guid: 4fca21a84333643a5b7318f8dc7ae6c0, type: 3}
+  - {fileID: 21300000, guid: 338362a81ebce4b478c3844ee94a3109, type: 3}
+  - {fileID: 21300000, guid: fa3b5af8b8a824631a410c89b9a37527, type: 3}
+  - {fileID: 21300000, guid: 0e333209c51964a3494a51f334891664, type: 3}
+  - {fileID: 21300000, guid: cb9c3a0a028594c9e978cda3f77ac0f0, type: 3}
+  - {fileID: 21300000, guid: cbcfb7fa0ecd54e4f8f646e7cad06abe, type: 3}
+  - {fileID: 21300000, guid: 7a5cefdc871c749e2ac97673e7dd3c4f, type: 3}
+  - {fileID: 21300000, guid: 76ad76aea29464e47a997426d4b87d0e, type: 3}
+  - {fileID: 21300000, guid: 42f7f15f106c94250b08d8a43540c943, type: 3}
+  - {fileID: 21300000, guid: a64ef0df0b327478497db1e7a451fb16, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - reward_month_icon_gold
+  - reward_month_icon_rune_2
+  - reward_week_icon_chest_0
+  - reward_month_icon_rune_3
+  - reward_month_icon_energy
+  - reward_month_icon_chest_0
+  - reward_month_frame_blue
+  - reward_month_frame_focus
+  - reward_month_icon_skin_1
+  - reward_month_icon_chest_1
+  - reward_week_frame_purple
+  - reward_month_icon_clover
+  - reward_month_icon_gem
+  - tip_bg
+  - reward_week_frame_blue
+  - reward_week_stamp
+  - reward_week_frame_focus
+  - reward_month_icon_book
+  - reward_week_icon_rune
+  - reward_month_frame_dim
+  - reward_week_icon_chest_1
+  - reward_month_icon_ax
+  - reward_month_icon_skin_0
+  - reward_month_icon_glove
+  - reward_month_icon_rune_0
+  - reward_month_frame_purple
+  - reward_month_stamp
+  - reward_month_icon_rune_1
+  - reward_week_icon_gold
+  - reward_week_frame_dim
+  - particle_rainbow
+  - reward_week_icon_gem
+  m_RenderDataMap: {}
+  m_Tag: Reward
+  m_IsVariant: 0

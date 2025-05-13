@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Popup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5695d6959b77c483e874d5374ab295b1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 0f56a520c9c034c2692fa3db3b7f1454: 21300000
+    - 73d8983007ddd4830baf7ecba1debd74: 21300000
+    - eb3db5b0868bc4f348e3d3a1dfbf32a8: 21300000
+    - d5e63cd097e024be49091bad031d43e1: 21300000
+    - 5896b4a1baaf9478d85fd89e0d802731: 21300000
+    - 4e9baab14e03b4b1c9219bb1a838f001: 21300000
+    - e10e2e63255044d738e79d5744af16aa: 21300000
+    - 483de4b39a0794560a650fe1d4ca85d9: 21300000
+    - fd1526d38b5574f4c83a53bf147c39a6: 21300000
+    - d1470b14e74de4e0eb66e0803742ed43: 21300000
+    - 9cdb56d43f12e4ce6b038f2cb2f92601: 21300000
+    - 2feaafe4e67104e6fbd6232e8f31f297: 21300000
+    - 163e637667ff849a29c9981fe92cd6ff: 21300000
+    - e792b7a6f9b844e14b97fcb3514851e0: 21300000
+    - 44575477e7fda4ea38d6b85a67a93ee9: 21300000
+    - 228b09b7fa1c5455eab8432a85fac4ee: 21300000
+    - bba40cc730aff4dc9bf14fee9a416714: 21300000
+    - 852e8aa9257ad44d3914c67e159ae8b2: 21300000
+    - 4173e6b9e42724ad89d8808cbc7bb000: 21300000
+    - b6c812e9e15084444899825718ee6b6c: 21300000
+    - a8dbef3a3b44e4f5097daa31d840396a: 21300000
+    - 1ffe4f6a20a024e24b41eb12159a44ae: 21300000
+    - 99996bfcda99b4d4dac0d7e9640859ff: 21300000
+    - e544a06ddd05f42fd879ce1fbe06593c: 21300000
+    - 6d28accd9afb4451b8742a47a640c015: 21300000
+    - 85ed19fdcb4464a16985784c2a69cc61: 21300000
+    - 2182c85e13b264078b23d16cf8ba31de: 21300000
+    - 5336c3be568974b6db77d266cbebe5fb: 21300000
+    - 41a16fce7cce142de8ff068aea81c4c4: 21300000
+    - 07a0b46f598be4c17a20ea74f86e694a: 21300000
+    - 93949faf194e34722be8d4ecb0da634a: 21300000
+    - 6014cdcfc7d90457782dc80acc6242c1: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0f56a520c9c034c2692fa3db3b7f1454, type: 3}
+  - {fileID: 21300000, guid: 73d8983007ddd4830baf7ecba1debd74, type: 3}
+  - {fileID: 21300000, guid: eb3db5b0868bc4f348e3d3a1dfbf32a8, type: 3}
+  - {fileID: 21300000, guid: d5e63cd097e024be49091bad031d43e1, type: 3}
+  - {fileID: 21300000, guid: 5896b4a1baaf9478d85fd89e0d802731, type: 3}
+  - {fileID: 21300000, guid: 4e9baab14e03b4b1c9219bb1a838f001, type: 3}
+  - {fileID: 21300000, guid: e10e2e63255044d738e79d5744af16aa, type: 3}
+  - {fileID: 21300000, guid: 483de4b39a0794560a650fe1d4ca85d9, type: 3}
+  - {fileID: 21300000, guid: fd1526d38b5574f4c83a53bf147c39a6, type: 3}
+  - {fileID: 21300000, guid: d1470b14e74de4e0eb66e0803742ed43, type: 3}
+  - {fileID: 21300000, guid: 9cdb56d43f12e4ce6b038f2cb2f92601, type: 3}
+  - {fileID: 21300000, guid: 2feaafe4e67104e6fbd6232e8f31f297, type: 3}
+  - {fileID: 21300000, guid: 163e637667ff849a29c9981fe92cd6ff, type: 3}
+  - {fileID: 21300000, guid: e792b7a6f9b844e14b97fcb3514851e0, type: 3}
+  - {fileID: 21300000, guid: 44575477e7fda4ea38d6b85a67a93ee9, type: 3}
+  - {fileID: 21300000, guid: 228b09b7fa1c5455eab8432a85fac4ee, type: 3}
+  - {fileID: 21300000, guid: bba40cc730aff4dc9bf14fee9a416714, type: 3}
+  - {fileID: 21300000, guid: 852e8aa9257ad44d3914c67e159ae8b2, type: 3}
+  - {fileID: 21300000, guid: 4173e6b9e42724ad89d8808cbc7bb000, type: 3}
+  - {fileID: 21300000, guid: b6c812e9e15084444899825718ee6b6c, type: 3}
+  - {fileID: 21300000, guid: a8dbef3a3b44e4f5097daa31d840396a, type: 3}
+  - {fileID: 21300000, guid: 1ffe4f6a20a024e24b41eb12159a44ae, type: 3}
+  - {fileID: 21300000, guid: 99996bfcda99b4d4dac0d7e9640859ff, type: 3}
+  - {fileID: 21300000, guid: e544a06ddd05f42fd879ce1fbe06593c, type: 3}
+  - {fileID: 21300000, guid: 6d28accd9afb4451b8742a47a640c015, type: 3}
+  - {fileID: 21300000, guid: 85ed19fdcb4464a16985784c2a69cc61, type: 3}
+  - {fileID: 21300000, guid: 2182c85e13b264078b23d16cf8ba31de, type: 3}
+  - {fileID: 21300000, guid: 5336c3be568974b6db77d266cbebe5fb, type: 3}
+  - {fileID: 21300000, guid: 41a16fce7cce142de8ff068aea81c4c4, type: 3}
+  - {fileID: 21300000, guid: 07a0b46f598be4c17a20ea74f86e694a, type: 3}
+  - {fileID: 21300000, guid: 93949faf194e34722be8d4ecb0da634a, type: 3}
+  - {fileID: 21300000, guid: 6014cdcfc7d90457782dc80acc6242c1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Popup_MiddeFrame02
+  - Popup_00_Glow_white
+  - Popup_Frame01_Navy
+  - txt_field_icon_account_0
+  - popup_bg_login
+  - popup_btn_close
+  - Popup_SideFrame02
+  - popup_bottom_shadow
+  - common_screen_dimmed
+  - txt_field_icon_pw_1
+  - Popup_SideFrame02_TopGlow
+  - Popup_Frame01_Purple
+  - Popup_Frame03
+  - Popup_Frame02
+  - popup_bg
+  - Popup_00_TitleLIne
+  - txt_field_icon_email_0
+  - Popup_00_LIne
+  - Popup_MiddeFrame01
+  - Popup_00_BottomGlow
+  - popup_bg_glow_white
+  - txt_field_icon_email_1
+  - popup_network_error
+  - Popup_TopFrame
+  - popup_title_line
+  - Popup_SideFrame02_BottomGlow
+  - icon_network_error
+  - Popup_SideFrame02_TopBar
+  - txt_field_icon_pw_0
+  - txt_field_icon_account_1
+  - frame
+  - Popup_SideFrame01
+  m_RenderDataMap: {}
+  m_Tag: Popup
+  m_IsVariant: 0
